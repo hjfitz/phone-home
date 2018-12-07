@@ -1,0 +1,12 @@
+{
+  "name": "save-ip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harry <hfitz83@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0"
+  }
+}
